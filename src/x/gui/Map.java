@@ -8,7 +8,7 @@ import javax.swing.table.DefaultTableModel;
  */
 public class Map extends JTable {
 
-    private int mapSize = 400;
+    private int mapSize = 100;
     private int cellSize = 5;
 
     public Map() {
